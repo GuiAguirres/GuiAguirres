@@ -1,21 +1,23 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# 👨🏻‍💻 Olá, seja bem vindo(a)!
+# 👨🏻‍💻 Hello, welcome!
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/guilherme-vanz-aguirres/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-Sou desenvolvedor BackEnd, FrontEnd e Mobile.
+As a developer, I specialize in BackEnd, FrontEnd, and Mobile development.
 
-- ❤ Adoro nativo Mobile (Swift e Kotlin)
-- 💙 Fã da Alura
-- 👩‍💻 Sempre estudando novas técnicas
-
+- ❤ I am passionate about native mobile development (using Swift)
+- 💻 I have experience working with .NET Core, including the development of Micro Services, Cron Jobs, and CodeFirst databases.
+- 👩‍💻 I am constantly seeking to expand my skills and knowledge in various technologies.
+<br/>
+<br/>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
